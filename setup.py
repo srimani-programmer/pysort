@@ -16,7 +16,6 @@ setup(
     author="Sri Manikanta Palakollu",
     author_email="srimani.crypter@gmail.com",
     license="MIT",
-    packages=setuptools.find_packages(),
     classifiers=[
         "License :: OSI Approved :: MIT License",
         "Programming Language :: Python :: 3",
@@ -24,7 +23,7 @@ setup(
         "Programming Language :: Python :: 3.6",
         "Programming Language :: Python :: 3.5",
         "Programming Language :: Python :: 3.5",
-        "Intended Audience :: Programmers and Developers",
+        "Intended Audience :: Developers",
         "Operating System :: OS Independent",
         "Topic :: Software Development :: Libraries :: Python Modules",
     ],
