@@ -4,6 +4,7 @@ A Powerful Python package that performs 15 different types of stable and unstabl
 ![Open Source: MIT](https://img.shields.io/pypi/l/pysort)
 ![Version: 1.0.0](https://img.shields.io/pypi/v/pysort)
 ![Platform Support: All OS](https://img.shields.io/badge/platform-windows%20%7C%20macos%20%7C%20linux-lightgrey)
+![Language Supprot](https://img.shields.io/badge/python-%5E3.0%20%7C%20%5E2.7-blue)
 
 ### USAGE
 
