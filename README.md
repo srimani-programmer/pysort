@@ -1,5 +1,6 @@
 ### PySort
 A Powerful Python package that performs 15 different types of stable and unstable Sorting algorithms on List Data Structure. This package will be more beneficial for competitive programmers and developers. Based on your requirement choose your sort algorithm.
+![Open Source: MIT](https://img.shields.io/pypi/l/pysort)
 
 ### USAGE
 
